@@ -67603,7 +67603,7 @@ westbound NN
 
 Tran NNP
 , ,
-O NNP
+Osama NNP
 , ,
 won VBN
 by Manner
